@@ -3,10 +3,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+M.Naveed....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align='center'>
 
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
+</div>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center"> Python Developer, Python, Web Development, Machine Learning, and Artificial Intelligence!</h3>
 
 ---
+
+
 
 🚀 **About Me**
 
@@ -65,6 +75,11 @@
 
 ---
 
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 ### **🔧 Tools**
 <div align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -83,20 +98,14 @@
 
 ---
 ## 💑 Connect with Me
+<h3 align="center">Connect me:</h3>
 <p align="center">
-  <a href="https://www.leetcode.com/#" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" style="height: 3rem; width: 3rem;">
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/naveed-jatt/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 3rem; width: 3rem;">
-  </a> &nbsp;
-  <a href="mailto:mnaveeditsjatt@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000" alt="Gmail" style="height: 3rem; width: 3rem;">
-  </a> &nbsp;
-  <a href="https://medium.com/#" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" style="height: 3rem; width: 3rem;">
-  </a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a>
+<a href="https://kaggle.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
+<br>
 
 ---
 
@@ -108,10 +117,26 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveed-jatt&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="40%" align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveed-jatt&theme=tokyonight" width="40%">
 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=night)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=islamabadnight)
+
+
 ## Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveed-jatt&theme=react-dark" width="100%">
 
+## 🐍 A Snake Eating my Contributions Graph
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
+
 ## 🏆 My Trophies
 
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=naveed-jatt)
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
