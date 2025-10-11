@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">A Python and AI Developer, GDGoC co-lead ML/AI Advancing in Python, Web Development, Machine Learning, and Artificial Intelligence!</h3>
+<h3 align="center"> Python Developer, Python, Web Development, Machine Learning, and Artificial Intelligence!</h3>
 
 ---
 
