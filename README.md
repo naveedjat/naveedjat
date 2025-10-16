@@ -119,7 +119,7 @@
 
 ## Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveed-jatt&theme=react-dark" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveedjat&theme=react-dark" width="100%">
 
 ## 🐍 A Snake Eating my Contributions Graph
 
