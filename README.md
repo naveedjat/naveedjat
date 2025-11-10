@@ -5,9 +5,6 @@
 </h1>
 <div align='center'>
 
-# <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
 <h3 align="center"> Python Developer, Python, Web Development, Machine Learning, and Artificial Intelligence!</h3>
 
 ---
@@ -20,8 +17,6 @@
 - 🌱 **Current Learning Path**: Advanced Python programming, Web Development, and Machine Learning technologies.
 - 💬 **Passion**: Continuous learning and growth in the tech ecosystem.
 - 📧 **Contact**: Reach me at mnaveeditsjatt@gmail.com
-- ⚡ **Fun Fact**: I am extrovert and love travel.
-
 ---
 
 ## 🔧 Skills & Tools
@@ -45,21 +40,6 @@
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="60" height="60"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="60" height="60"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="60" height="60"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="60" height="60"/>
-  </a>
-  <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-beautiful-soup-is-a-python-library-for-pulling-data-out-of-html-and-xml-files-logo-color-tal-revivo.png" title="Beautiful Soup" alt="Beautiful Soup" width="60" height="60"/>
   </a>
 </div>
 
