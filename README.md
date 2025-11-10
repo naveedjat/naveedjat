@@ -84,7 +84,7 @@
 
 ## Languages Status
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveed-jatt&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="40%" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveedjat&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="40%" align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveed-jatt&theme=tokyonight" width="40%">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=night)
