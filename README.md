@@ -80,7 +80,7 @@
 ---
 
 ## GitHub Status
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=naveed-jatt&theme=tokyonight" width="51%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=naveedjat&theme=tokyonight" width="51%" >
 
 ## Languages Status
 
