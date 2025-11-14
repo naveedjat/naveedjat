@@ -41,6 +41,9 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>
   </a>
+	  <a href="https://requests.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/requests/requests-original.svg" title="requests" alt="Requests" width="60" height="60"/>
+  </a>
 </div>
 
 ---
