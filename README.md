@@ -41,8 +41,17 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>
   </a>
-	  <a href="https://requests.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/requests/requests-original.svg" title="requests" alt="Requests" width="60" height="60"/>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="60" height="60"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="60" height="60"/>
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="60" height="60"/>
+  </a>
+  <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-beautiful-soup-is-a-python-library-for-pulling-data-out-of-html-and-xml-files-logo-color-tal-revivo.png" title="Beautiful Soup" alt="Beautiful Soup" width="60" height="60"/>
   </a>
 </div>
 
