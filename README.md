@@ -7,7 +7,7 @@
 </h1>
 <div align='center'>
 
-<h3 align="center"> Python Developer, Machine Learning,Artificial Intelligence!</h3>
+<h3 align="center"> Junior Ai Engineer !</h3>
 
 ---
 
