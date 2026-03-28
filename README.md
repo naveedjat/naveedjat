@@ -21,6 +21,19 @@
 - 📧 **Contact**: Reach me at mnaveeditsjatt@gmail.com
 ---
 
+## 🛤️ My Journey to AI Engineer
+
+I am documenting my path from curious student to professional AI Engineer. Follow along or use it as inspiration for your own journey!
+
+| 📄 Document | Description |
+|------------|-------------|
+| [🗺️ Roadmap](journey/roadmap.md) | Phase-by-phase learning roadmap |
+| [🏆 Milestones](journey/milestones.md) | Key achievements along the way |
+| [📚 Resources](journey/resources.md) | Books, courses, and communities I recommend |
+| [🛠️ Projects](journey/projects.md) | Hands-on projects built throughout the journey |
+
+---
+
 ## 🔧 Skills & Tools
 
 ### **💻 Programming Languages**
