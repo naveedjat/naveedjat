@@ -21,6 +21,19 @@
 - 📧 **Contact**: Reach me at mnaveeditsjatt@gmail.com
 ---
 
+## 🛤️ My Journey to AI Engineer
+
+I am documenting my path from curious student to professional AI Engineer. Follow along or use it as inspiration for your own journey!
+
+| 📄 Document | Description |
+|------------|-------------|
+| [🗺️ Roadmap](journey/roadmap.md) | Phase-by-phase learning roadmap |
+| [🏆 Milestones](journey/milestones.md) | Key achievements along the way |
+| [📚 Resources](journey/resources.md) | Books, courses, and communities I recommend |
+| [🛠️ Projects](journey/projects.md) | Hands-on projects built throughout the journey |
+
+---
+
 ## 🔧 Skills & Tools
 
 ### **💻 Programming Languages**
@@ -115,7 +128,11 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naveedjat/naveedjat/output/github-contribution-grid-snake-dark.svg"/>
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naveedjat/naveedjat/output/github-contribution-grid-snake.svg"/>
+	  <img src="https://raw.githubusercontent.com/naveedjat/naveedjat/output/github-contribution-grid-snake.svg" alt="Snake animation of my GitHub contribution graph"/>
+	</picture>
 </p>
 
 
